@@ -1,2 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
+python-multipart
+pydantic
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+openai
